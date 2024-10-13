@@ -9,6 +9,10 @@ export default defineNuxtConfig({
       img: '[path][name].[ext]',
     },
   },
+  app: {
+    baseURL: '/vitalafrica/',
+    buildAssetsDir: 'assets'
+  },
   generate:{
     nojekyll: true, //not working on this version
     fallback: '404.html',

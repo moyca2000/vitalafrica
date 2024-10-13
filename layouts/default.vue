@@ -5,7 +5,7 @@
                 <div class="flex lg:flex-1">
                     <a href="#" class="-m-1.5 p-1.5">
                         <span class="sr-only">Vital África</span>
-                        <img class="max-sm:w-28 md:w-36 rounded" src="public/logoprincipal.png" alt="" />
+                        <img class="max-sm:w-28 md:w-36 rounded" src="/logoprincipal.png" alt="" />
                     </a>
                 </div>
                 <div class="flex lg:hidden">
@@ -32,7 +32,7 @@
                     <div class="flex items-center justify-between">
                         <a href="#" class="-m-1.5 p-1.5">
                             <span class="sr-only">Vital África</span>
-                            <img class="h-8 w-auto" src="public/logoprincipal.png" alt="" />
+                            <img class="h-8 w-auto" src="/logoprincipal.png" alt="" />
                         </a>
                         <button type="button" class="-m-2.5 rounded-md p-2.5 text-gray-700"
                             @click="mobileMenuOpen = false">
