@@ -14,7 +14,7 @@
                     </div>
                 </div>
                 <div class="mt-16 lg:w-1/3 sm:mt-24 lg:mr-28 lg:mt-0 lg:flex-shrink-0 lg:flex-grow">
-                    <img src="assets/informacion.jpg" alt="" />
+                    <img src="public/assets/informacion.jpg" alt="" />
                 </div>
             </div>
         </div>
@@ -46,7 +46,7 @@
                             </dl>
                         </div>
                     </div>
-                    <img src="assets/principal.png" alt="Product screenshot"
+                    <img src="public/assets/principal.png" alt="Product screenshot"
                         class="w-[25rem] max-w-none rounded-xl shadow-xl sm:w-[40rem] md:-ml-4 lg:-ml-0" width="2432"
                         height="1442" />
                 </div>
